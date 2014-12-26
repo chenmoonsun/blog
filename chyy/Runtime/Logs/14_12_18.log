@@ -1,0 +1,2963 @@
+[ 2014-12-18T09:15:25+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.102179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.102302s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026597s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001166s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001104s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001786s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006586s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001599s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2014-12-18T09:45:10+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032891s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001376s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001132s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006082s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001810s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001880s ]
+
+[ 2014-12-18T10:05:22+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022608s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001122s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001122s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001018s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004672s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001383s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001456s ]
+
+[ 2014-12-18T10:37:28+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001473s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022721s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001163s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001072s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000971s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004676s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001366s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001439s ]
+
+[ 2014-12-18T10:39:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023595s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001131s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001070s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000931s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004491s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001958s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002025s ]
+
+[ 2014-12-18T10:41:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017207s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001229s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001094s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004672s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001976s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002046s ]
+
+[ 2014-12-18T10:57:37+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017863s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001165s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001092s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000949s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004572s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001357s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2014-12-18T10:59:03+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017891s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001187s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001145s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000973s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004707s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002009s ]
+
+[ 2014-12-18T10:59:46+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024086s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001168s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001079s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000937s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004547s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001343s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001412s ]
+
+[ 2014-12-18T11:01:35+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012175s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000470s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000439s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001892s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000679s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2014-12-18T11:01:48+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018338s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001526s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001583s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005629s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001343s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001412s ]
+
+[ 2014-12-18T11:03:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023968s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001753s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002394s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001673s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008266s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002170s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002251s ]
+
+[ 2014-12-18T11:05:59+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016389s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001221s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001081s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000992s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004782s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001379s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2014-12-18T11:06:39+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017838s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001287s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001080s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000939s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004778s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001435s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001505s ]
+
+[ 2014-12-18T11:06:47+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016009s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001107s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001062s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000925s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002031s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002111s ]
+
+[ 2014-12-18T11:27:17+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002383s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.112926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113065s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001279s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001664s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000973s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005342s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001347s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2014-12-18T11:27:47+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017662s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001122s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001069s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000934s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004513s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001365s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001435s ]
+
+[ 2014-12-18T11:28:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019636s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001127s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004690s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001701s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2014-12-18T11:32:05+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031697s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001181s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001083s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004576s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002951s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003113s ]
+
+[ 2014-12-18T11:32:44+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019751s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001158s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001074s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000957s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004627s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003713s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003842s ]
+
+[ 2014-12-18T11:37:52+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002842s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033029s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003431s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001834s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001536s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008957s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004869s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005025s ]
+
+[ 2014-12-18T11:39:00+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023564s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001799s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001281s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000986s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005562s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003790s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004426s ]
+
+[ 2014-12-18T11:43:45+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001744s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023359s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002078s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002330s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002630s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011142s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010011s ]
+INFO: [ view_end ] --END-- [ RunTime:0.010168s ]
+
+[ 2014-12-18T11:45:44+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021373s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001188s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001201s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001133s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001665s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005562s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004824s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004945s ]
+
+[ 2014-12-18T11:53:07+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020671s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001214s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001116s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004894s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002808s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002959s ]
+
+[ 2014-12-18T11:55:55+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020928s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001664s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001200s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000958s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005371s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002755s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002859s ]
+
+[ 2014-12-18T11:57:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021495s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001196s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001083s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004632s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002880s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003025s ]
+
+[ 2014-12-18T14:49:40+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003730s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.153606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153789s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001569s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001770s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001565s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007803s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002020s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002133s ]
+
+[ 2014-12-18T15:00:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015346s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034017s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001179s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001092s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001571s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001904s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005948s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002701s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002825s ]
+
+[ 2014-12-18T15:28:39+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024798s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062817s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003634s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003028s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013427s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009736s ]
+
+[ 2014-12-18T15:29:52+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025441s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001212s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001117s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001002s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004781s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005952s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006091s ]
+
+[ 2014-12-18T15:30:10+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025874s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001435s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001313s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001149s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005682s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002448s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002555s ]
+
+[ 2014-12-18T15:31:33+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018508s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000474s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000846s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000318s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004008s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002818s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002921s ]
+
+[ 2014-12-18T15:39:27+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020035s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001681s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001251s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001098s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005880s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001958s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002103s ]
+
+[ 2014-12-18T15:39:42+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023779s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001335s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001147s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000983s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004965s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002404s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005340s ]
+
+[ 2014-12-18T15:40:41+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028562s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001213s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001148s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000959s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004719s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003111s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003244s ]
+
+[ 2014-12-18T15:41:06+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020292s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001214s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001102s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001175s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004977s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005098s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005315s ]
+
+[ 2014-12-18T15:41:20+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016297s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000494s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000409s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001887s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001850s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002012s ]
+
+[ 2014-12-18T15:41:33+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023720s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001979s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001877s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001680s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007658s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007083s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007215s ]
+
+[ 2014-12-18T15:41:57+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000487s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000549s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000362s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002163s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000770s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2014-12-18T15:42:11+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017579s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000448s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002009s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002665s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002856s ]
+
+[ 2014-12-18T15:42:22+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022201s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001182s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001068s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000954s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004598s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001665s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2014-12-18T15:44:32+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023089s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001500s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004260s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002095s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011740s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004120s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004246s ]
+
+[ 2014-12-18T15:44:53+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023682s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002369s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002724s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001935s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010064s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005070s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005359s ]
+
+[ 2014-12-18T15:46:15+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029162s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002191s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002384s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001802s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009011s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001978s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002126s ]
+
+[ 2014-12-18T15:49:53+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031486s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002552s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001760s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001588s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007923s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004451s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004556s ]
+
+[ 2014-12-18T15:51:29+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002111s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022659s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001202s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001081s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001118s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004985s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001538s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001631s ]
+
+[ 2014-12-18T15:59:27+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022727s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021240s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001787s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001720s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002419s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001895s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008036s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002413s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002519s ]
+
+[ 2014-12-18T16:05:45+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020962s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001700s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001162s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005423s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001556s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2014-12-18T16:05:49+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019750s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000627s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000661s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000325s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002677s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001136s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001280s ]
+
+[ 2014-12-18T16:05:50+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015900s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000542s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000436s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000285s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002020s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001947s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002089s ]
+
+[ 2014-12-18T16:07:12+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020386s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001097s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001546s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005584s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001656s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001758s ]
+
+[ 2014-12-18T16:08:07+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001569s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021123s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001236s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001094s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001084s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004825s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001779s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001873s ]
+
+[ 2014-12-18T16:08:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001569s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021470s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001857s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002433s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001608s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007958s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004730s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005792s ]
+
+[ 2014-12-18T16:12:05+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022136s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001214s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001085s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000945s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004638s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002964s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003114s ]
+
+[ 2014-12-18T16:19:20+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001675s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024895s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002108s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001738s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001592s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008530s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003994s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004121s ]
+
+[ 2014-12-18T16:19:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023549s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001200s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001090s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000943s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004627s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001595s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001706s ]
+
+[ 2014-12-18T16:20:39+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023919s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001595s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001153s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000965s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005156s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001747s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001859s ]
+
+[ 2014-12-18T16:23:25+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001483s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025952s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001206s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001090s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000980s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006749s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002542s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002810s ]
+
+[ 2014-12-18T16:36:39+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023007s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002157s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002350s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001761s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008433s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004338s ]
+
+[ 2014-12-18T16:36:59+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.247046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.247151s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021572s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001210s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001292s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001095s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006364s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004754s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004879s ]
+
+[ 2014-12-18T16:37:53+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067032s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002252s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001937s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001787s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001969s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008189s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007232s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007436s ]
+
+[ 2014-12-18T16:38:00+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017986s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018162s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001807s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:38:41+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003736s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001962s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:38:47+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001634s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:38:51+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001428s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:38:52+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000958s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001055s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:39:38+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001053s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001165s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:39:39+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001217s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001360s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:39:50+08:00 ] 127.0.0.1 /index.php/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001322s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:39:57+08:00 ] 127.0.0.1 /index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001086s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.124469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124595s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001985s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002190s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001023s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001770s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008841s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002469s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002621s ]
+
+[ 2014-12-18T16:39:57+08:00 ] 127.0.0.1 /index.php/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001508s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001681s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:39:57+08:00 ] 127.0.0.1 /index.php/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003390s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003539s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002940s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:39:57+08:00 ] 127.0.0.1 /index.php/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003127s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003293s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:40:05+08:00 ] 127.0.0.1 /index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001730s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022192s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001475s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001315s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001282s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005619s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001931s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002019s ]
+
+[ 2014-12-18T16:40:05+08:00 ] 127.0.0.1 /index.php/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001055s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001148s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:40:05+08:00 ] 127.0.0.1 /index.php/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001155s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001260s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:40:05+08:00 ] 127.0.0.1 /index.php/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004781s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005034s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:40:09+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020725s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001315s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001178s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001164s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005131s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003240s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003461s ]
+
+[ 2014-12-18T16:40:17+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017655s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000518s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000463s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002022s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000760s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2014-12-18T16:40:19+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017168s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000490s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000408s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001947s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001772s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003488s ]
+
+[ 2014-12-18T16:40:28+08:00 ] 127.0.0.1 /index.php/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003501s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:40:38+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000989s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001084s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:40:43+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017488s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000537s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000456s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002027s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000996s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001124s ]
+
+[ 2014-12-18T16:42:43+08:00 ] 127.0.0.1 /index.php/index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001989s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:42:48+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033230s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001880s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001400s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001137s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006546s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002980s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003122s ]
+
+[ 2014-12-18T16:44:19+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019624s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000613s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000486s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002139s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002008s ]
+
+[ 2014-12-18T16:44:28+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015828s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000486s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000410s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001862s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000705s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2014-12-18T16:44:35+08:00 ] 127.0.0.1 /index.php/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001630s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001723s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:45:14+08:00 ] 127.0.0.1 /index.php/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001685s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001799s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:45:23+08:00 ] 127.0.0.1 /index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000979s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001077s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020712s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001460s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001147s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000968s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005010s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001854s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2014-12-18T16:45:23+08:00 ] 127.0.0.1 /index.php/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001508s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:45:23+08:00 ] 127.0.0.1 /index.php/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002106s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002289s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:45:23+08:00 ] 127.0.0.1 /index.php/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002135s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002313s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003357s ]
+ERR: 无法加载模块:lib
+
+[ 2014-12-18T16:45:29+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000945s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001043s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023994s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001418s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001357s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001134s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005406s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002297s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002450s ]
+
+[ 2014-12-18T16:45:29+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001071s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001189s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:29+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001647s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001811s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:29+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001885s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002004s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:32+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001512s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001630s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021632s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001095s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001126s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004886s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003675s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003918s ]
+
+[ 2014-12-18T16:45:32+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001616s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:32+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001423s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:32+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002329s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:37+08:00 ] 127.0.0.1 /index.php/Index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001042s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001164s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016877s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000485s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000413s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001868s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000823s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2014-12-18T16:45:37+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001056s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001181s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:37+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002109s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002259s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002546s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:38+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001903s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002096s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:47+08:00 ] 127.0.0.1 /index.php/index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001773s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001882s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:45:52+08:00 ] 127.0.0.1 /index.php/Index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001702s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026621s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002277s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002613s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001817s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009119s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003193s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003357s ]
+
+[ 2014-12-18T16:45:52+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002528s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002639s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:52+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001251s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001365s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:45:52+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002720s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002889s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:46:04+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001100s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:46:42+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/css/amazeui.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001198s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:47:47+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001757s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001858s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:48:18+08:00 ] 127.0.0.1 /index.php/Index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001223s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001350s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062804s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001716s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001411s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001289s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005923s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003616s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003753s ]
+
+[ 2014-12-18T16:48:18+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001695s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:48:18+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002810s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003047s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002372s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:48:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022681s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001865s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001712s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001567s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001969s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007311s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002548s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002648s ]
+
+[ 2014-12-18T16:48:39+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001985s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002095s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:48:43+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001317s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:48:52+08:00 ] 127.0.0.1 /index.php/article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003042s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003183s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:article
+
+[ 2014-12-18T16:49:00+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001099s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001255s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:49:40+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001656s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:49:42+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001843s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001960s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:49:42+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001432s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001535s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:49:42+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001468s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:49:43+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001966s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002100s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:50:22+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001711s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001821s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:50:32+08:00 ] 127.0.0.1 /index.php/article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001336s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001443s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:article
+
+[ 2014-12-18T16:50:40+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001855s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002107s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:51:11+08:00 ] 127.0.0.1 /index.php/Article/showarticle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001322s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001423s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:51:15+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002047s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002205s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:51:23+08:00 ] 127.0.0.1 /index.php/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001491s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:51:31+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002398s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002556s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022819s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001228s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001124s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001218s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005343s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003812s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003945s ]
+
+[ 2014-12-18T16:51:31+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001995s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002151s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:51:31+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002726s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003011s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:51:38+08:00 ] 127.0.0.1 /index.php/Index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001067s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001165s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022753s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001219s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001106s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000957s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004744s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2014-12-18T16:51:38+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002099s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:51:38+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002161s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002309s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002207s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:51:55+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000479s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000409s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002446s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004426s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004589s ]
+
+[ 2014-12-18T16:52:03+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001054s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001162s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:52:27+08:00 ] 127.0.0.1 /index.php/Article/showarticle.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001129s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001241s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+ERR: 模板不存在[./chyy/Tpl/Article/showarticle.html]
+
+[ 2014-12-18T16:53:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002046s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021610s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002382s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001869s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001627s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008149s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003243s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003342s ]
+
+[ 2014-12-18T16:53:33+08:00 ] 127.0.0.1 /index.php/index/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003712s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004773s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001663s ]
+ERR: 无法加载模块:index
+
+[ 2014-12-18T16:53:44+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022505s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001368s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001233s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005486s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003590s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003870s ]
+
+[ 2014-12-18T16:53:45+08:00 ] 127.0.0.1 /index.php/Index/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001772s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001883s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022911s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002084s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002019s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003835s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011403s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003302s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003422s ]
+
+[ 2014-12-18T16:53:45+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001885s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002023s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:53:45+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001707s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:53:52+08:00 ] 127.0.0.1 /index.php/Index/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001765s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001819s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023649s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001191s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001181s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000958s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004733s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005666s ]
+
+[ 2014-12-18T16:53:52+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001631s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001729s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:53:52+08:00 ] 127.0.0.1 /index.php/Index/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002686s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002863s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:55:09+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017823s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000625s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000451s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002091s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002127s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002209s ]
+
+[ 2014-12-18T16:55:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019680s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000552s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000434s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002015s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000871s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2014-12-18T16:55:34+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032006s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002127s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001744s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001620s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008486s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002231s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002343s ]
+
+[ 2014-12-18T16:55:35+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\IndexAction.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018815s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001941s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002680s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001771s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008849s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002447s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002562s ]
+
+[ 2014-12-18T16:55:42+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000992s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001089s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019108s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001849s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001322s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001037s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005832s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001485s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001564s ]
+
+[ 2014-12-18T16:55:42+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001588s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:55:42+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004005s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003117s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:56:23+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002009s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002123s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024323s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001225s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001161s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001359s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005263s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002281s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002416s ]
+
+[ 2014-12-18T16:56:23+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002231s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002389s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:56:23+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004984s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005146s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002357s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:56:34+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002149s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024703s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001559s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002445s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001116s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007206s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002240s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002381s ]
+
+[ 2014-12-18T16:56:36+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001797s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018448s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000567s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000430s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002030s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001837s ]
+
+[ 2014-12-18T16:56:36+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001551s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001713s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:56:36+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000959s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:58:18+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001196s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016210s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000604s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000557s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000372s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002312s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000957s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001082s ]
+
+[ 2014-12-18T16:58:18+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001761s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001936s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:58:18+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002950s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002338s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:59:56+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002167s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002286s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022354s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001845s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001758s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002293s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001973s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008155s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002944s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003052s ]
+
+[ 2014-12-18T16:59:56+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002661s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002824s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T16:59:56+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004427s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T17:00:47+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001693s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001792s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021954s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001281s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001263s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000971s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004927s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001423s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2014-12-18T17:00:47+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001452s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001601s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T17:00:47+08:00 ] 127.0.0.1 /index.php/Article/lib/assets/js/amazeui.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002185s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002345s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+ERR: 非法操作:lib
+
+[ 2014-12-18T17:01:49+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002845s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003007s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017300s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001818s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001762s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001808s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008239s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002658s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002830s ]
+
+[ 2014-12-18T17:03:03+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001907s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002046s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019350s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001150s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001100s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001024s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004893s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002514s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002642s ]
+
+[ 2014-12-18T17:05:42+08:00 ] 127.0.0.1 /index.php/Article/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001804s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020773s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001288s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001232s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000949s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004901s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001492s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2014-12-18T17:11:17+08:00 ] 127.0.0.1 /index.php/Article/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002187s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002300s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020103s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001186s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001125s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000959s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004653s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001653s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001747s ]
+
+[ 2014-12-18T17:19:18+08:00 ] 127.0.0.1 /index.php/Article/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001678s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001787s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021709s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003038s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002011s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001892s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009502s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002420s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002556s ]
+
+[ 2014-12-18T17:31:34+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002189s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021731s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001908s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001875s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001639s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007459s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002329s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002436s ]
+
+[ 2014-12-18T17:33:54+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001723s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001826s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019487s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001141s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001099s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000939s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004548s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001890s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002054s ]
+
+[ 2014-12-18T17:44:48+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002056s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002175s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020571s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001942s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001755s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001590s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007431s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002912s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003060s ]
+
+[ 2014-12-18T17:45:25+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002865s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003022s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023666s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001547s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001122s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005743s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002279s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002427s ]
+
+[ 2014-12-18T17:46:01+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001373s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001499s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017103s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001934s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001940s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001685s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007644s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003423s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003563s ]
+
+[ 2014-12-18T17:46:57+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000951s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001046s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000534s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000420s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002028s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001166s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001290s ]
+
+[ 2014-12-18T17:48:35+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002241s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021205s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001178s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001460s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005019s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002359s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002538s ]
+
+[ 2014-12-18T17:48:54+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030070s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000780s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000675s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000435s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003162s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001208s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2014-12-18T17:49:34+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001080s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001189s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014464s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000626s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000627s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002370s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000877s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2014-12-18T17:49:55+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004095s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004204s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020958s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001853s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002127s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008251s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002256s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002391s ]
+
+[ 2014-12-18T17:50:05+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001017s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001136s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016995s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000823s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000869s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007416s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001026s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001227s ]
+
+[ 2014-12-18T17:50:54+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001525s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001651s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020790s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003512s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002289s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001703s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009794s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002708s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002868s ]
+
+[ 2014-12-18T17:51:24+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003054s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003214s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025579s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001225s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001236s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001452s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001789s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006019s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003147s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003273s ]
+
+[ 2014-12-18T17:52:05+08:00 ] 127.0.0.1 /index.php/Article/show.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001012s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001119s ]
+NOTIC: [2] array_walk_recursive() [<a href='function.array-walk-recursive'>function.array-walk-recursive</a>]: Unable to call filter_exp() - function does not exist D:\www\thinkphp3.1.3\lib\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [2048] Declaration of ArticleAction::show() should be compatible with that of Action::show() D:\www\thinkphp3.1.3\chyy\Lib\Action\ArticleAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017845s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000503s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000416s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001898s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000766s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000857s ]
+

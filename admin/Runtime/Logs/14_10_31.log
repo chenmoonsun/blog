@@ -1,0 +1,76 @@
+[ 2014-10-31T17:29:26+08:00 ] 127.0.0.1 /thinkphp/chyy/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015417s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002146s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001290s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006123s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001404s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2014-10-31T17:32:46+08:00 ] 127.0.0.1 /thinkphp/chyy/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.001987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002097s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001252s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002722s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002215s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009539s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002385s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002471s ]
+
+[ 2014-10-31T17:32:52+08:00 ] 127.0.0.1 /thinkphp/chyy/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.001613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001849s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001591s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002002s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001571s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007643s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002611s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002762s ]
+
+[ 2014-10-31T17:32:53+08:00 ] 127.0.0.1 /thinkphp/chyy/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002474s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\www\thinkphp\chyy\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001178s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001099s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001613s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001827s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005906s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002672s ]
+
